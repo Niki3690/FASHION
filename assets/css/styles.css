@@ -1339,9 +1339,11 @@ outline:none;
 .nav-brand:hover,
 .nav-menu>li>a {
     color:#000;
+    
 }
 .light-menu .nav-brand, .light-menu .nav-brand:focus, .light-menu .nav-brand:hover, .light-menu .nav-menu>li>a {
-    color:#ffffff
+    color:#ffffff;
+    
 }
 .light-menu .nav-menu>.active>a, .light-menu .nav-menu>.focus>a, .light-menu .nav-menu>li:hover>a {
     color:#ffffff !important;
@@ -1569,7 +1571,7 @@ nav a:hover {
 .nav-menu>li>a {
     padding:22px 18px;
     display: inline-block;
-    font-weight:400;
+    font-weight:700;
     font-size:16px;
 	letter-spacing: .1px;
 	color:#2c2c2c;
@@ -1586,7 +1588,9 @@ nav a:hover {
 .navigation-portrait .nav-menu>li>a {
     height: auto;
     width: 100%;
-    padding: 12px 15px 12px 26px
+    padding: 12px 15px 12px 26px;
+    font-weight: 700;
+    
 }
 
 .nav-menu>.active>a,
