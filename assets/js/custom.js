@@ -165,8 +165,8 @@ $(function() {
 		type: "double",
 		min: 0,
 		max: 1000,
-		from:100,
-		to:750,
+		from:369,
+		to:639,
 		grid: true
 	});
 	
