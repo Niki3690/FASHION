@@ -4694,7 +4694,7 @@ img.img-footer.small {
 }
 
 .footer_widget {
-    padding:60px 0 60px;
+    padding:40px 0 40px;
 }
 h4.widget_title {
     margin-bottom: 10px;
@@ -5042,7 +5042,7 @@ footer.skin-dark-footer ul.footer-bottom-social li a:hover, footer.skin-dark-foo
 		margin-bottom:1rem;
 	}
 	.footer_widget {
-		padding:25px 0 25px;
+		padding:15px 0 15px;
 	}
 	.footer-middle {
 		padding: 25px 0;
